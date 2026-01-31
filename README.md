@@ -1,4 +1,8 @@
-# WAAVI Sanitizer
+# WAAVI Sanitizer — fork for project use
+
+**Why this fork exists:** Forked (around 2019–2020) so we can use it in our own projects via Composer without depending on upstream updates. We keep our copy and can patch or adapt it if needed; the original is [WAAVI Sanitizer](https://github.com/waavi/sanitizer). Use this repo in projects by pointing Composer to our fork, or use `composer require waavi/sanitizer` for the upstream package.
+
+---
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/waavi/sanitizer.svg?style=flat-square)](https://packagist.org/packages/waavi/sanitizer)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
